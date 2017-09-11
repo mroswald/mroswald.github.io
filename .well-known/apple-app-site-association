@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "JAR9QE9F67.com.newstore.sdk.playground",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
